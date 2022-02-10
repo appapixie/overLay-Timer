@@ -91,6 +91,9 @@
     - tkinter 테마로 ttkbootstrap을 사용하였습니다.
   * Download
     - [googleDrive]
+  * License
+    - MIT license. [LICENSE.txt]
 
 [googleDrive]:https://drive.google.com/drive/folders/1NHlR-pyA9FPpRFi7TmNUfVwtuYGmWg-s?usp=sharing
+[LICENSE.txt]:https://github.com/appapixie/overLay-Timer/blob/main/LICENSE
 
