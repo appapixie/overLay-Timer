@@ -85,7 +85,10 @@
 2. 소스 오픈 및 배포 시작
 ```
 </details>
-
+  
+  * Development Environment
+    - windows 11
+    - vsCode
   * Language
     - Python 3.9.9
     - tkinter 테마로 ttkbootstrap을 사용하였습니다.
